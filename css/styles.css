@@ -228,6 +228,15 @@ h1.arrow2 { font-size: 15px; text-transform: uppercase; color: #ffffff; letter-s
 h1.arrow3 { font-size: 14px; color: #ffffff; letter-spacing: 1px; line-height: 200%;}
 h1.arrow4 { font-size: 14px; color: #4c4a4a; letter-spacing: 1px; }
 /* ==========================================================================
+license
+========================================================================== */
+.license { background: #ffffff; }
+.license p { margin: 50px 0 0; }
+h1.han { font-size: 18px; color: #eb53ab; letter-spacing: 1px; font-weight: bold;}
+h1.han2 { font-size: 14px; color: #000000; letter-spacing: 1px; font-weight: bold;}
+h1.han3 { font-size: 14px; color: #000000; letter-spacing: 1px; font-weight: bold;}
+h1.han4 { font-size: 14px; color: #000000; letter-spacing: 1px; font-weight: bold;}
+/* ==========================================================================
 mint
 ========================================================================== */
 .mint { background: #7546c0; }
